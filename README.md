@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm HMETAO</h1>
 <h3 align="center">一个想做出有意思东西的程序员呀！</h3>
-
+  
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://www.hmetao.cn/"><img src="https://img.shields.io/badge/Website-个人网站-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@HMETAO"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://qm.qq.com/q/aX7TB2LDws"><img src="https://img.shields.io/badge/Tencent-QQ-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/44976515/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=hmetao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+  
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
