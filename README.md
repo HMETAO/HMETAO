@@ -8,10 +8,9 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=hmetao&show_icons=true&locale=en" alt="hmetao" /></div>
-
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmetao&" alt="hmetao" /></div>
-
+  
+## Github Stats  
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=hmetao&show_icons=true&locale=en" alt="hmetao" /></div>
 
 <h2>My Skill Set</h2>
 <table><tr><td valign="top" width="33%">
